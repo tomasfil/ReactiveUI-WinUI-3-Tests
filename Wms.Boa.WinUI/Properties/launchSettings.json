@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Wms.Boa.WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Wms.Boa.WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
